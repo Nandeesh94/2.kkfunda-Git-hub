@@ -1,2 +1,3 @@
 git rm -r --cached maven-webapplication-project-kkfunda/    :stop tracking those files in Git but keep them locally.
 git rm -r maven-webapplication-project-kkfunda/             :remove them from both Git and disk.
+git commit --amend --reset-author                    :edit your most recent commit and also update the commit’s author information to match your current Git configuration.

@@ -1,3 +1,6 @@
+ls -d */  :-shows the directories
+ls -dlrtha */  :- it will show the all the directories
+
 where the cretentials will store?
 
 windows: credential manager
